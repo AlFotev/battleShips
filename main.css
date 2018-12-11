@@ -1,0 +1,19 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#coord{
+    width: 60px;
+    padding: 5px;
+}
+#hit{
+    color:white;
+    background-color:black;
+    width:60px;
+    padding:5px;
+    border-radius: 10px;
+}
+td{
+    width:15;
+    height:15;
+    text-align: center;
+}
