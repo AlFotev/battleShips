@@ -7,4 +7,5 @@ The player plays against the computer.There is show command for debbuging that s
 The entering of coordinates a.k.a. shots is : a5...a6..etc
 The program notifies if any ship is hit missed or sunk, on invalid input it says there is something wrong.
 In the end of game the program counts how many shots were needed for sinking all the ships and offers  the player to play again.
+The program remembers the current progress of the game, so the player must finish the game in order to start a newone.
 The REST service I used is Kinvey.
